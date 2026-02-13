@@ -1,5 +1,8 @@
 # 🎮 Video Game Sales Dashboard — Excel Analytics Project
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard/dashboard.png)
+
 ## 📌 Project Overview
 This project presents an interactive Excel dashboard built using a Video Game Sales dataset. The objective is to analyze global and regional video game sales trends across platforms, genres, publishers, and release years, and transform raw data into meaningful insights using Excel analytics and visualization tools.
 
